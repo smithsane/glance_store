@@ -13,3 +13,4 @@ eventlet>=0.17.4
 six>=1.9.0
 
 jsonschema!=2.5.0,<3.0.0,>=2.0.0
+python-swiftclient==2.6.0
